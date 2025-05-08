@@ -11,3 +11,4 @@ print('El tamaño de la variable es: ' , tamanio , ' asi de debe contatenar') # 
 nombre, edad, ciudad = 'Juan', 30, 'Madrid'
 print(nombre, edad, ciudad)
 print('Hola, soy ' + nombre + ' y tengo ' + str(edad) + ' años y vivo en ' + ciudad)
+
